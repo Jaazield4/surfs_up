@@ -15,3 +15,6 @@ June and December. We got both months temperatures to see if Oahu is a good seas
 - Even thought there isn't a big change in average temperatures between June and December the low in December drops to 56 degrees. This means that while on average most days are nice to surf and eat ice cream, there will be certain days in December that won't be ideal for the surf shop.
 
 ## Summary
+From the results we see that Oahu does not have drastic changes in weather between seasons. This makes Oahu a great place for a surf and ice cream shop. For a better
+year round picture it would be great to get the temperature results for every month or one month out of every season. Because December is the start of winter, I believe 
+January would make a better view of what the weather in Oahu is like in the winter. By using changing the month to january we would see that the average temperature is 3 degrees lower than December and it has a higher standard deviation. While there still isn't a drastic change, every bit of information can help. Same can be done for every month to get the most accurate results.
